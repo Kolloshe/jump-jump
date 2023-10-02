@@ -1,0 +1,61 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Level-01.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Level-01.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 281.5,
+                "y": 230.75
+            }
+        },
+        "Level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.898515625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 251.24891979753926,
+                "y": 184.09118966297683
+            }
+        },
+        "pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/hac/AndroidStudioProjects/jump_jump/jump_jump/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "pixel Adventure.tsx",
+        "Level-01.tmx",
+        "Level-02.tmx"
+    ],
+    "project": "pixel Adventure.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "pixel Adventure.tsx",
+        "Level-02.tmx",
+        "Level-01.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
